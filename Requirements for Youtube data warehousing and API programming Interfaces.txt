@@ -1,0 +1,6 @@
+To build youtube data processing and API warehousing The required softwares are
+ 1.Visual studio code
+ 2.Postgre SQL 
+ 3.Streamlit
+ 4.MongoDB
+  
